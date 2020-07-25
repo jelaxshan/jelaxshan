@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Jelaxshan Jehanathan</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<p align="center">[![Jelaxshan's github stats](https://github-readme-stats.vercel.app/api?username=jelaxshan&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)</p>
+[![Jelaxshan's github stats](https://github-readme-stats.vercel.app/api?username=jelaxshan&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jelaxshan" alt="jelaxshan" /> </p>
