@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working at **OVO Energy**
+- 🔭 I’m currently working at **Nutmeg**
 
 
 <h4>Languages and Tool</h4>
