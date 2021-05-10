@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working at **Nutmeg**
+- 🔭 I’m currently working at **OVO**
 
 
 <h4>Languages and Tool</h4>
